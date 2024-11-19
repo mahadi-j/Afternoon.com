@@ -1,0 +1,43 @@
+*{
+	padding: 80;
+	margin: 1;
+	box-sizing: border-box;
+ }
+ .aa{
+ 	background-color:green;
+ }
+.ab ul{
+
+	display: inline-flex;
+	justify-content:centre;
+}
+.ab ul li a{
+	color: greys;
+	margin: 20px ;
+	text-decoration:down;
+	transition: 0.5s;
+
+}
+.ab ul li a {
+	background-color: orange;
+}
+.ac p {
+	background-color:seagreen;
+	text-align: center;
+	position: fixed;
+	bottom: 2;
+	left: 0;
+	width: 100;
+
+}
+.ac p:hover{
+	color: yellow;
+	background-color: greys;
+}
+.ab ul li a{
+	color: mediumpurple;
+	margin: 16px;
+	text-decoration: down;
+
+}
+
